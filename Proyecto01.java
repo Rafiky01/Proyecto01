@@ -4,7 +4,7 @@ public class Proyecto01 {
 
 public static void main(String[] args) {
 		
-		String hello = "Hola GitHub";
+		String hello = "Hello GitHub";
 		
 		System.out.println(hello);
 
